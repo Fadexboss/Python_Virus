@@ -1,4 +1,4 @@
-##Contents of the Virus<br>
+Contents of the Virus<br>
 
 Accessing Chrome History on Opposite Computer<br>
 Accessing Chrome Passwords on the Opposite Computer<br>
@@ -7,11 +7,11 @@ A specific site opens every time the computer starts<br>
 All this data is transferred to our yandex disk<br>
 The virus opens automatically and updates the data every time the computer starts.<br>
 
-##ATTENTİON
--chrome must be closed while virus is running
+ATTENTİON<br>
+-chrome must be closed while virus is running<br>
 
 
-##How To editing this virus for me ? follow the steps
+**How To editing this virus for me ? follow the steps<br>
 -We install the necessary libraries<br>
 -Our virus runs with start.py file<br>
 -We transfer all the data to our yandex disk so that we can see it ourselves, we do this by creating our own yandex token<br>

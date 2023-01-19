@@ -1,13 +1,13 @@
-Contents of the Virus
+##Contents of the Virus<br>
 
-Accessing Chrome History on Opposite Computer
-Accessing Chrome Passwords on the Opposite Computer
-We change the link of the home page site of the Internet Browser
-A specific site opens every time the computer starts
-All this data is transferred to our yandex disk
-The virus opens automatically and updates the data every time the computer starts.
+Accessing Chrome History on Opposite Computer<br>
+Accessing Chrome Passwords on the Opposite Computer<br>
+We change the link of the home page site of the Internet Browser<br>
+A specific site opens every time the computer starts<br>
+All this data is transferred to our yandex disk<br>
+The virus opens automatically and updates the data every time the computer starts.<br>
 
-#ATTENTİON
+##ATTENTİON
 -chrome must be closed while virus is running
 
 

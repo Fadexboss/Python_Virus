@@ -13,5 +13,5 @@ def q1():
         key = OpenKey(HKEY_CURRENT_USER, keyVal, 0, KEY_ALL_ACCESS)
     except:
         key = CreateKey(HKEY_CURRENT_USER, keyVal)
-    SetValueEx(key, "Start Page", 0, REG_SZ, "https://i.ytimg.com/vi/WuUW-DGV6wc/maxresdefault.jpg")
+    SetValueEx(key, "Start Page", 0, REG_SZ, "http://bettercallsaul.amc.com/")
     CloseKey(key)

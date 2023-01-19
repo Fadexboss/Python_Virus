@@ -2,7 +2,7 @@ import webbrowser
 from winreg import HKEY_CURRENT_USER, KEY_ALL_ACCESS, REG_SZ, CloseKey, CreateKey, OpenKey, SetValueEx
 #Bu fonksiyonu çalıştırırsanız chromeda vermiş olduğunuz link açılır ve explorer ana sayfa düğmesini kendi linkinizle değiştirebilirsiniz
 def q1():
-    url = 'https://i.ytimg.com/vi/WuUW-DGV6wc/maxresdefault.jpg'
+    url = 'https://i.etsystatic.com/25661613/r/il/85bb94/4065407405/il_fullxfull.4065407405_7mss.jpg'
     webbrowser.register('chrome',
         None,
         webbrowser.BackgroundBrowser("C://Program Files//Google//Chrome//Application//chrome.exe"))

